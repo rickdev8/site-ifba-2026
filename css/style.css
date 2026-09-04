@@ -181,6 +181,10 @@ h1 .biggest,
 	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
 }
 
+h3 .text-capitalize {
+    color: rgb(255, 0, 0);
+}
+
 @media (min-width: 576px) {
 	h1 .biggest,
 	.heading-1 .biggest {
@@ -4481,7 +4485,7 @@ html.boxed body {
 }
 
 .text-primary {
-	color: #505cfd !important;
+	color: #e01d1d !important;
 }
 
 .text-gray-dark {
